@@ -20,3 +20,5 @@ LOOK AT COMMENT: /Users/k-razor/Documents/MVC-Tech-Blog/public/images/look at co
 NOT LOGGED IN: /Users/k-razor/Documents/MVC-Tech-Blog/public/images/not logged in.png
 
 
+Heroku Deployment https://techblog1200.herokuapp.com/ deployed to Heroku
+
